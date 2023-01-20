@@ -1,0 +1,209 @@
+{
+  "name": "PanKiT PanChaL",
+  "header": {
+    "home": "Home",
+    "features": "Features",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "screen": {
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Contact With Me",
+      "form": {
+        "name": "Your name",
+        "phone": "phone number",
+        "email": "email",
+        "subject": "subject",
+        "message": "Your message",
+        "submit": "send message"
+      },
+      "info": {
+        "name": "PanKiT PanChaL",
+        "designation": "Scenior Software Engg",
+        "message": "I am available for freelance work. Connect with me via mail or call my account.",
+        "phone": "Phone",
+        "email": "Email"
+      }
+    },
+    "home": {
+      "header": "Welcome to my world",
+      "title1": "Hi, I'm ",
+      "title2": "a",
+      "info1": "Developer.",
+      "info2": "Professional Coder.",
+      "info3": "Thinker.",
+      "description": "I use animation as a third dimension by which to simplify experiences and guide through each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that."
+    },
+    "findwithme": {
+      "title": "fine with me"
+    },
+    "features": {
+      "title": "Features",
+      "subtitle": "What I Do",
+      "card1": {
+        "title": "Business Strategy",
+        "description": "Help you to build your business logic from scratch and upscale it."
+      },
+      "card2": {
+        "title": "Mobile App",
+        "description": "Build modern Android and IOS apps to connect with people around you quickly."
+      },
+      "card3": {
+        "title": "Web Application",
+        "description": "Build client-side applications with modern features like SPA and maintain semantic coding style among other best practices for SEO optimization. Use modern tech such as Angular and SCSS."
+      },
+      "card4": {
+        "title": "Backend App",
+        "description": "Build modern and reusable APIs with help of .net core, with user security and maintainability."
+      },
+      "card5": {
+        "title": "SSRS Reports",
+        "description": "Build a reports dashboard in modern UI with help of charts, graphs, and tables."
+      },
+      "card6": {
+        "title": "Window and Console App",
+        "description": "Build scalable and maintainable server/windows/console applications using modern technology stacks such as MSSQL, WinForms, and ConsoleApp."
+      }
+    },
+    "resume": {
+      "header1": "Education",
+      "header2": "Professional Skills",
+      "header3": "Experience",
+      "education": {
+        "event1": {
+          "status": "Masters - IT",
+          "date": "Mumbai University (2016-2019)",
+          "icon": "fa-solid fa-graduation-cap",
+          "color": "#9C27B0",
+          "percentage": "61.05%"
+        },
+        "event2": {
+          "status": "Engineering - IT",
+          "date": "Mumbai University (2012-2015)",
+          "icon": "fa-solid fa-building-columns",
+          "color": "#673AB7",
+          "percentage": "58.73%"
+        },
+        "event3": {
+          "status": "Diploma - IT",
+          "date": "Mumbai University (2008-2012)",
+          "icon": "fa-solid fa-school",
+          "color": "#FF9800",
+          "percentage": "58.73%"
+        },
+        "event4": {
+          "status": "SSC",
+          "date": "Mumbai University (2008)",
+          "icon": "fa-solid fa-school",
+          "color": "#9C27B0",
+          "percentage": "58.73%"
+        }
+      },
+      "skills": {
+        "feature": "Feature",
+        "title1": "Design Skill",
+        "title2": "Development Skill",
+        "design": {
+          "item1": "DESIGN",
+          "item2": "FIGMA",
+          "item3": "BALSAMIQ",
+          "item4": "Paint"
+        },
+        "dev": {
+          "item1": "C#",
+          "item2": "SQL",
+          "item3": "SSRS",
+          "item4": "ANGULAR",
+          "item5": "CSS",
+          "item6": "PLUGIN"
+        }
+      },
+      "experience": {
+        "projects": {
+          "proj1": {
+            "status": "GemApp - Backend",
+            "summary": "Create backend for Gemapp website and mobile app using .net core. Created models, Dtos, Controllers, and Mappers and added Fluent Validation and Fluent API. Odata for Rest calls. Created logic to handle multiple database access based on assigned DB to specific users",
+            "tech": ".NetCore, Odata, AutoMapper, EF, MsSQL and many more",
+            "teamSize": "15",
+            "icon": "fa-brands fa-nfc-symbol",
+            "color": "#9C27B0",
+            "role": "Scrum Master, Sytem design and Developer"
+          },
+          "proj2": {
+            "status": "GemApp",
+            "summary": "Building GemApp web application, which is the modern version of B2B software DiaAdmin. with Oauth and web APIs, it uses PrimeNg as a UI framework",
+            "tech": "Angular, Typescript, HTML, SCSS, PrimeNg(3rd party theme)",
+            "teamSize": "10",
+            "icon": "fa-brands fa-chrome",
+            "color": "#673AB7",
+            "role": "Scrum Master, Sytem design and Developer"
+          },
+          "proj3": {
+            "status": "Tender",
+            "summary": "Build a Tender website, for a client, through which multiple users can perform a bidding process against items that are auctioned.",
+            "tech": "Angular, Typescript, HTML, SCSS, PrimeNg(3rd party theme)",
+            "teamSize": "10",
+            "icon": "fa-solid fa-bag-shopping",
+            "color": "#FF9800",
+            "role": "Sytem design and Developer"
+          },
+          "proj4": {
+            "status": "GemApp - Mobile App",
+            "summary": "Build GemApp Mobile App for B2B process for diamond trading business in android and ios, using hybrid technology.",
+            "tech": "Angular, Typescript, bootstrap, Ionic.",
+            "teamSize": "10",
+            "icon": "fa-solid fa-mobile-screen-button",
+            "color": "#9C27B0",
+            "role": "Sytem design and Developer"
+          },
+          "proj5": {
+            "status": "AutoMail SSRS Report",
+            "summary": "The application sends Schedule SSRS Reports to clients. Each time a new report will be generated/deploy on reporting server with different Db links and the report will be encrypted and sent to clients",
+            "tech": "C#, MS SQL Server 2008/2016, SSIS, SSRS",
+            "teamSize": "1",
+            "icon": "fa-solid fa-envelope-open-text",
+            "color": "#673AB7",
+            "role": "Sytem design and Developer"
+          },
+          "proj6": {
+            "status": "Global Services",
+            "summary": "The application is used to map the same contacts from a different location with a different name to one single contact name at the global level. Which help user to manage and build more meaning full reports for their business",
+            "tech": "C#, MS SQL Server 2008/2016",
+            "teamSize": "2",
+            "icon": "fa-solid fa-globe",
+            "color": "#FF9800",
+            "role": "Sytem design and Developer"
+          },
+          "proj7": {
+            "status": "Import Utility",
+            "summary": "The application helps clients to migrate from their old system to our environment. It uses Excel with the specified format as standards, it checks excel and imports client details into our system-specific environment",
+            "tech": "VB.Net, SSIS",
+            "teamSize": "4",
+            "icon": "fa-solid fa-file-import",
+            "color": "#9C27B0",
+            "role": "Sytem design and Developer"
+          },
+          "proj8": {
+            "status": "Certificates",
+            "summary": "The application helps clients to download and compare GIA/HRD/etc lab reports with their data. Update stock to Rapnet, Idex, and their website. and many more features",
+            "tech": "VB.Net",
+            "teamSize": "4",
+            "icon": "fa-solid fa-certificate",
+            "color": "#9C27B0",
+            "role": "Developer"
+          },
+          "proj9": {
+            "status": "SSRS Reports",
+            "summary": "Build multiple SSRS reports based on clients requirements. Created all kinds of SSRS reports. Use MsSQL and TSQL to fetch data.",
+            "tech": "SSRS, MSSQL",
+            "teamSize": "1",
+            "icon": "fa-solid fa-square-poll-vertical",
+            "color": "#673AB7",
+            "role": "Developer"
+          }
+        }
+      }
+    }
+  }
+}
